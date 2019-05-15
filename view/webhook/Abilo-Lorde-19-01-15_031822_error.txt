@@ -1,0 +1,19 @@
+Lead Status : Application Received
+
+Lead Number : LEA524090
+
+Website : 
+
+ Lead Search Result : 
+
+{"success":true,"result":[{"salutationtype":"","firstname":"Lorde","lastname":"Abilo","phone":"+17788748271","email":"lordeabilo@yahoo.com","mobile":"+17788748271","website":"","cf_1029":"None","cf_793":"","leadstatus":"Not Interested","assigned_user_id":"20x2","modifiedtime":"2019-01-15 20:18:07","annualrevenue":"","cf_1027":"","lead_no":"LEA524090","createdtime":"2019-01-15 17:28:36","cf_909":"","cf_811":"Client applied for a Credit Card, looking for credit repair as well. They would not have applied for an online credit card if their credit is not bad.","cf_911":"","cf_895":"","emailoptout":"0","cf_1163":"","cf_1207":"0","modifiedby":"19x700001","cf_1209":"0","cf_1211":"0","cf_1213":"0","primary_twitter":"","created_user_id":"19x700003","source":"ZAPIER","cf_1726":"","cf_1728":"","last_contacted_on":"2019-01-15 20:18:08","last_contacted_via":"Emails","cf_leads_f7status":"","engagement_score":"0","starred":"","tags":"","record_currency_id":"21x1","record_conversion_rate":"1.00000","company":"","leadsource":"","noofemployees":"","fax":"","industry":"","secondaryemail":"","annualrevenue_currency_value":"","designation":"SalesMan","rating":"","emailoptin":"singleoptinuser","emailoptin_requestcount":"0","emailoptin_lastrequestedon":"","cf_leads_mattressomnicanadaemailunsubscribe":"","smsoptin":"singleoptinuser","language":"","cf_leads_knowncreditissues":"","cf_1732":"","cf_1736":"","cf_1744":"","cf_1748":"","cf_1752":"","cf_1756":"","cf_1760":"","cf_1768":"","cf_1764":"","cf_773":"","cf_795":"","cf_789":"","cf_791":"","cf_783":"","cf_787":"","cf_751":"0","cf_753":"0","cf_759":"0","cf_891":"","cf_757":"","cf_769":"","cf_763":"","cf_761":"0","cf_755":"0","cf_771":"","cf_777":"","cf_775":"","cf_781":"","cf_779":"","cf_785":"","cf_883":"","cf_797":"","cf_885":"","description":"","cf_1167":"0","cf_1183":"","cf_1185":"0","cf_1169":"","cf_1171":"","lane":"","pobox":"","code":"","city":"Pitt Meadows","cf_799":"","country":"","state":"","mailing_gps_lat":"0.0000000","mailing_gps_lng":"0.0000000","cf_801":"FB CAT CARD","cf_803":"765388797131538","cf_931":"23842996520570532","cf_807":"765388797131538","cf_805":"","cf_887":"","cf_809":"","cf_leads_mattress":"","cf_leads_inhouseapp":"0","cf_leads_mattressadded":"0","imagename":"","id":"2x4625652","isclosed":"0","record_currency_symbol":"$"}]}
+
+ Lead status Error : 
+
+ Second IF Condition :  Lead status has differed from posted one
+
+ Doesn't call convert_lead_to_contact function 
+
+ Please fix the error and use another page to convert : workflow_webhook.php 
+
+
